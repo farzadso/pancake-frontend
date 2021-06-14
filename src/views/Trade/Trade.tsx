@@ -1,7 +1,7 @@
 import React from 'react'
 import { Text } from '@pancakeswap/uikit'
 import styled from 'styled-components'
-import TabButtons from 'views/Farms/components/TabButtons'
+import TabButtons from 'views/Liquidity/components/TabButtons'
 import Page from 'components/layout/Page'
 
 const ControlContainer = styled.div`

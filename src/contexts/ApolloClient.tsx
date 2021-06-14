@@ -1,9 +1,6 @@
-import React from 'react'
 import {
     ApolloClient,
     InMemoryCache,
-    OperationVariables,
-    useApolloClient,
 } from '@apollo/client';
 
 export const client = new ApolloClient({
